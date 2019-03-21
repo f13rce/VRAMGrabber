@@ -1,5 +1,5 @@
 # VRAMGrabber
-Tool that utilizes OpenCL 1.2 and up to fetch the full VRAM of a GPU.
+Tool that utilizes OpenCL 1.2 and up to fetch the full VRAM of all available GPU devices.
 
 The fetched VRAM is stored in the local home directory (cross-platform), where the size of the raw VRAM data files are identical to the total VRAM available in every individual device.
 
