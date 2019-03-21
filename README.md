@@ -19,3 +19,8 @@ Include the main.cpp file and it is ready to be compiled.
 After running this file, the data will be stored in your local home directory in the "VRAMDumps" folder. In here you will be able to find a "csv" file and a "raw" file, where the name of the file is your platform + device name.
 
 The CSV file shows how long it took to copy the entire VRAM, where the RAW file is the raw data of the VRAM stored as a binary file. You can use tools like Scalpel or other forensically sound tools to analyze the acquired data.
+
+# About
+This project was done by Mike Slotboom and Ivar Slotboom, for class project regarding Computer Crime and Forensics at the University of Amsterdam, where we are studying Security and Network Engineering (SNE, https://os3.nl ).
+
+Research paper of this project will be linked on this page soon.
