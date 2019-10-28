@@ -23,4 +23,4 @@ The CSV file shows how long it took to copy the entire VRAM, where the RAW file 
 # About
 This project was done by Mike Slotboom and Ivar Slotboom, for class project regarding Computer Crime and Forensics at the University of Amsterdam, where we are studying Security and Network Engineering (SNE, https://os3.nl ).
 
-Research paper of this project will be linked on this page soon.
+Research paper of this project can be seen by downloading/viewing the VRAMGrabber-Paper.pdf document.
